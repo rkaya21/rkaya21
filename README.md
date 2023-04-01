@@ -12,19 +12,8 @@ This is the place where I opensource stuff and break things 🤣
 
 ### 📩 Connect with me:
 
-[<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
-[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram]
-[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
+![image]({https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white})(recepenskaya@gmail.com)
 
-
-<br />
-
-
-[instagram]: (https://www.instagram.com/recepenes_/)
-[linkedin]: https://www.linkedin.com/in/recep-enes-kaya-a89208231/
-[gmail]: recepenskaya@gmail.com
-<br />
- 
  
 
                  
