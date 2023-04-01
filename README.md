@@ -12,8 +12,7 @@ This is the place where I opensource stuff and break things 🤣
 
 ### 📩 Connect with me:
 
-![image]({https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white})(recepenskaya@gmail.com)
-
+![image]({https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white})
  
 
                  
