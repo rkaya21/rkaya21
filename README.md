@@ -6,15 +6,11 @@ This is the place where I opensource stuff and break things 🤣
 - 🔭 I’m currently working on C# project.
 - 🌱 I’m currently learning C and C#
 - ⚡ Fun fact: I like to read historical books.
-  ____                  ____                      
- / __ \___  ___ ___    / __/__  __ _____________  
-/ /_/ / _ \/ -_) _ \  _\ \/ _ \/ // / __/ __/ -_) 
-\____/ .__/\__/_//_/ /___/\___/\_,_/_/  \__/\__/  
-   _/_/                  __  __   _               
-  / __/  _____ ______ __/ /_/ /  (_)__  ___ _     
- / _/| |/ / -_) __/ // / __/ _ \/ / _ \/ _ `/ _ _ 
-/___/|___/\__/_/  \_, /\__/_//_/_/_//_/\_, (_|_|_)
-                 /___/                /___/       
+ 
+ 
+ 
+ 
+<img src="gorsel-link" width="auto">
                  
                  
 
