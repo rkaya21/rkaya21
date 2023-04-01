@@ -1,11 +1,22 @@
 ### Hi there 👋
 
 
-Here are some ideas to get you started:
+This is the place where I opensource stuff and break things 🤣
 
 - 🔭 I’m currently working on C# project.
 - 🌱 I’m currently learning C and C#
 - ⚡ Fun fact: I like to read historical books.
-- I live in Turkey
+  ____                  ____                      
+ / __ \___  ___ ___    / __/__  __ _____________  
+/ /_/ / _ \/ -_) _ \  _\ \/ _ \/ // / __/ __/ -_) 
+\____/ .__/\__/_//_/ /___/\___/\_,_/_/  \__/\__/  
+   _/_/                  __  __   _               
+  / __/  _____ ______ __/ /_/ /  (_)__  ___ _     
+ / _/| |/ / -_) __/ // / __/ _ \/ / _ \/ _ `/ _ _ 
+/___/|___/\__/_/  \_, /\__/_//_/_/_//_/\_, (_|_|_)
+                 /___/                /___/       
+                 
+                 
+
 
 
