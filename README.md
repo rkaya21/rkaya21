@@ -10,7 +10,7 @@ This is the place where I opensource stuff and break things 🤣
  
  
  
-<img src="gorsel-link" width="auto">
+
                  
                  
 
