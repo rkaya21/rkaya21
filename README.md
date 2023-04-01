@@ -11,11 +11,19 @@ This is the place where I opensource stuff and break things 🤣
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=rkaya21&show_icons=true&theme=radical)
 
 ### 📩 Connect with me:
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/rkaya21) 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/recepenes_/) 
 
-[<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][https://www.linkedin.com/in/recep-enes-kaya-a89208231/]
- 
+[<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
+[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram]
+[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
+
+
+<br />
+
+
+[instagram]: (https://www.instagram.com/recepenes_/)
+[linkedin]: https://www.linkedin.com/in/recep-enes-kaya-a89208231/
+[gmail]: recepenskaya@gmail.com
+<br />
  
  
 
