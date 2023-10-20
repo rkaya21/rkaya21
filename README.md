@@ -1,4 +1,4 @@
-[![MasterHead](https://statusneo.com/wp-content/uploads/2023/02/MicrosoftTeams-image551ad57e01403f080a9df51975ac40b6efba82553c323a742b42b1c71c1e45f1.jpg)
+![MasterHead](https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg) ![MasterHead](https://static.vecteezy.com/system/resources/thumbnails/027/127/560/small/javascript-logo-javascript-icon-transparent-free-png.png)
 <h1 align="center">Hi 👋, I'm Recep Enes Kaya</h1>
 <h3 align="center">"A Committed Adventurer on the Path of Self-Improvement</h3>
 
