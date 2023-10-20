@@ -1,4 +1,4 @@
-![MasterHead](https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg) ![MasterHead](https://static.vecteezy.com/system/resources/thumbnails/027/127/560/small/javascript-logo-javascript-icon-transparent-free-png.png)
+![MasterHead](https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg) ![MasterHead](https://1.bp.blogspot.com/-TGQt5uRcAkg/XuMIJoAhwnI/AAAAAAAAA38/FaJQpUUDsGEYR1zBK1wqLWUA9DTYp5CiQCPcBGAYYCw/w1200-h630-p-k-no-nu/js.png)
 <h1 align="center">Hi 👋, I'm Recep Enes Kaya</h1>
 <h3 align="center">"A Committed Adventurer on the Path of Self-Improvement</h3>
 
