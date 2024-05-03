@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Recep Enes Kaya</h1>
-<h3 align="center">I will be backend developer</h3>
+<h3 align="center">I don't believe in myself,I'm nothing.</h3>
 
 - 🌱 I’m currently learning **Python and continue Django**
 
