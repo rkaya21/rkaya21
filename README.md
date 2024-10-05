@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **django projects**
 
-- 📫 How to reach me **rkaya21@posta.pau.edu.tr**
+- 📫 How to reach me **recepenskaya@gmail.com**
 
 
 
