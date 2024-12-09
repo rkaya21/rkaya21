@@ -2,7 +2,6 @@
 
 - 📫 How to reach me **<a href="mailto:recepenskaya@gmail.com" target="_blank">recepenskaya@gmail.com</a>**
 - 🌐 Check out my website: <a href="https://recepeneskaya.com" target="_blank">recepeneskaya.com</a>
-- I’m currently studying Management Information Systems and aiming to become a backend engineer.I’m working on improving my backend skills such as API design,Nginx configuration and using caching methods to enhance performance.I’m also learning DevOps practices like CI/CD to automate workflows and accelerate project delivery.I use Docker to make my Django projects more efficient in development and deployment.I’m always exploring new technologies to stay up to date :)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
