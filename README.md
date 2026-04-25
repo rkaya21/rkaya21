@@ -26,6 +26,10 @@ I enjoy working with clean architecture, containerized deployments, and robust d
 
 ---
 
-## Activity
+## Stats
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rkaya21&theme=react-dark&hide_border=true)
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=rkaya21&hide_border=true&theme=dark" height="150"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rkaya21&layout=compact&hide_border=true&theme=dark" height="150"/>
+</p>
