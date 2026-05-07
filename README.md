@@ -31,5 +31,5 @@ I enjoy working with clean architecture, containerized deployments, and robust d
 <p align="left">
   <img src="https://streak-stats.demolab.com?user=rkaya21&hide_border=true&theme=dark" height="150"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=rkaya21&show_icons=true&hide_border=true&theme=dark" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api?username=rkaya21&show_icons=true&hide_border=true&theme=dark" height="150"/>
 </p>
