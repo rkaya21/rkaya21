@@ -7,6 +7,10 @@
   <a href="https://recepeneskaya.com" target="_blank">🌐 recepeneskaya.com</a>
 </p>
 
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=rkaya21.rkaya21&left_color=gray&right_color=blue" alt="Ziyaretçi Sayısı" />
+</p>
+
 ---
 
 ## About me
@@ -26,6 +30,13 @@ I enjoy working with clean architecture, containerized deployments, and robust d
 
 ---
 
-## Stats
+## GitHub Stats
 
-![Ziyaretçi Sayısı](https://visitor-badge.laobi.icu/badge?page_id=rkaya21.rkaya21)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rkaya21&show_icons=true&theme=dark&rank_icon=github&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rkaya21&layout=compact&theme=dark&hide_progress=false" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rkaya21&theme=dark" alt="GitHub Streak" width="97%" />
+</p>
