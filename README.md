@@ -28,7 +28,4 @@ I enjoy working with clean architecture, containerized deployments, and robust d
 
 ## Stats
 
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=rkaya21&hide_border=true&theme=dark&v=2" height="150"/>
-  &nbsp;
-</p>
+![Ziyaretçi Sayısı](https://visitor-badge.laobi.icu/badge?page_id=rkaya21.rkaya21)
