@@ -33,10 +33,5 @@ I enjoy working with clean architecture, containerized deployments, and robust d
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rkaya21&theme=2077" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/top-languages?username=rkaya21&theme=2077" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rkaya21&theme=dark" width="98%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rkaya21&theme=dark" width="48%" />
 </p>
