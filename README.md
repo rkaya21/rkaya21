@@ -29,9 +29,6 @@ I enjoy working with clean architecture, containerized deployments, and robust d
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 ---
-
-## GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rkaya21&theme=dark" width="48%" />
 </p>
